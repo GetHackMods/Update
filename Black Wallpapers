@@ -1,11 +1,15 @@
 {
-  "enabled": true,
+  "enable": true,
+  "version": "4.3.0",
+  "version_code": 43,
+  "force_update": false,
   "title": "Update Available!",
+  "subtitle": "v4.3 Update Found",
   "points": [
-    "Can’t wait to see you in the new version.",
-    "Click “Update Now” to download the latest version from our Telegram channel."
+    "Can't wait to see you in the new version.",
+    "Click \"Update Now\" to download the latest version from our Telegram channel."
   ],
-  "update_link": "https://t.me/GetHackMods",
-  "cancel_text": "Not Now",
-  "update_text": "Update Now"
+  "cancel_text": "NOT NOW",
+  "update_text": "UPDATE NOW",
+  "update_link": "https://t.me/GetHackMods"
 }
