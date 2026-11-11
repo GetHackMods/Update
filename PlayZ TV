@@ -1,20 +1,22 @@
 {
   "enable": true,
   "version": "2.4.1",
+  "version_name": "2.4.1",
   "version_code": 9,
   "force_update": false,
-  "min_version_code": 8,
+  "min_version_code": 0,
   "show_every_hours": 0,
-  "title": "Version 2.4.1 Is Here! 🚀",
+  "title": "Version 4.3 Is Here! 🚀",
   "subtitle": "A fresh update is ready",
-  "message": "What's new",
+  "message": "",
   "points": [
-What's new
     "⚡ Faster loading & smoother live streams",
     "🛠 Bug fixes and better stability",
     "📺 Improved layout for phones, tablets & Android TV",
     "✅ Grab the latest build from our official Telegram channel"
   ],
+  "collapsible_points": false,
+  "pulse_button": true,
   "cancel_text": "MAYBE LATER",
   "update_text": "GET UPDATE",
   "update_link": "https://t.me/GetHackMods",
