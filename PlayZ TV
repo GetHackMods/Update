@@ -1,22 +1,26 @@
 {
   "enable": true,
-  "version": "1.034",
+  "version": "1.035",
   "version_code": 34,
   "force_update": false,
   "min_version_code": 0,
-  "show_every_hours": 0,
-  "title": "Update Available!",
-  "subtitle": "v4.3 Update Found",
-  "message": "What's new",
+  "show_every_hours": 12,
+  "title": "Version 4.3 Is Here! 🚀",
+  "subtitle": "A fresh update is ready",
+  "message": "",
   "points": [
-    "Can't wait to see you in the new version.",
-    "Click \"Update Now\" to download the latest version from our Telegram channel."
+    "⚡ Faster loading & smoother live streams",
+    "🛠 Bug fixes and better stability",
+    "📺 Improved layout for phones, tablets & Android TV",
+    "✅ Grab the latest build from our official Telegram channel"
   ],
-  "cancel_text": "NOT NOW",
-  "update_text": "UPDATE NOW",
+  "cancel_text": "MAYBE LATER",
+  "update_text": "GET UPDATE",
   "update_link": "https://t.me/GetHackMods",
   "mirror_link": "",
-  "mirror_text": "MIRROR LINK",
+  "mirror_text": "BACKUP LINK",
   "theme_color": "#00FFC0",
-  "bg_color": "#0A0A0A"
+  "bg_color": "#0A0A0A",
+  "bg_color2": "#10211D",
+  "font_asset": ""
 }
