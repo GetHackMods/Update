@@ -15,7 +15,7 @@
     "📺 Improved layout for phones, tablets & Android TV",
     "✅ Grab the latest build from our official Telegram channel"
   ],
-  "collapsible_points": false,
+  "collapsible_points": true,
   "whatsnew_text": "▾  What's new",
   "hide_text": "▴  Hide details",
   "pulse_button": true,
